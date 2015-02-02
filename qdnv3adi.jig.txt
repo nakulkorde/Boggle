@@ -1,0 +1,60 @@
+﻿Merge branch 'master' of https://github.com/nakulkorde/Boggle
+
+Conflicts:
+	.idea/misc.xml
+	.idea/modules.xml
+	app/app.iml
+	app/build.gradle
+	app/proguard-rules.pro
+	app/src/main/AndroidManifest.xml
+	app/src/main/res/layout/activity_game.xml
+	app/src/main/res/layout/activity_game_page.xml
+	app/src/main/res/layout/activity_main.xml
+	app/src/main/res/menu/menu_game.xml
+	app/src/main/res/menu/menu_game_page.xml
+	app/src/main/res/values/strings.xml
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   .idea/inspectionProfiles/Project_Default.xml
+#	new file:   .idea/inspectionProfiles/profiles_settings.xml
+#	modified:   .idea/misc.xml
+#	modified:   .idea/modules.xml
+#	new file:   New_Project.iml
+#	modified:   app/app.iml
+#	modified:   app/build.gradle
+#	modified:   app/proguard-rules.pro
+#	new file:   app/src/androidTest/java/com/neoapps/new_project/ApplicationTest.java
+#	modified:   app/src/main/AndroidManifest.xml
+#	new file:   app/src/main/java/com/neoapps/new_project/Game.java
+#	new file:   app/src/main/java/com/neoapps/new_project/GamePage.java
+#	new file:   app/src/main/java/com/neoapps/new_project/MainActivity.java
+#	new file:   app/src/main/res/drawable-hdpi/logo.jpg
+#	new file:   app/src/main/res/drawable-hdpi/m.jpg
+#	new file:   app/src/main/res/drawable-hdpi/milkyway.jpg
+#	new file:   app/src/main/res/drawable/mustang.jpg
+#	new file:   app/src/main/res/java/io/annotations.xml
+#	modified:   app/src/main/res/layout/activity_game.xml
+#	modified:   app/src/main/res/layout/activity_game_page.xml
+#	modified:   app/src/main/res/layout/activity_main.xml
+#	modified:   app/src/main/res/menu/menu_game.xml
+#	modified:   app/src/main/res/menu/menu_game_page.xml
+#	new file:   app/src/main/res/raw/words.txt
+#	modified:   app/src/main/res/values/strings.xml
+#	new file:   app/src/main/res/words.txt
+#
+
