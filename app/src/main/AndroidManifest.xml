@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-
     package="com.boggle" >
-
 
     <application
         android:allowBackup="true"
@@ -19,7 +17,6 @@
             </intent-filter>
         </activity>
         <activity
-
             android:name=".Game"
             android:label="@string/title_activity_game" >
         </activity>
@@ -27,7 +24,6 @@
             android:name=".GamePage"
             android:label="@string/title_activity_game_page" >
         </activity>
-
     </application>
 
 </manifest>
